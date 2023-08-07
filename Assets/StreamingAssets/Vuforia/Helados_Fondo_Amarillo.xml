@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Helado1A" size="8.300000 8.812674" />
+    <ImageTarget name="Helado3A" size="8.300000 8.760128" />
+    <ImageTarget name="Helado5A" size="8.300000 8.735925" />
+    <ImageTarget name="Helado4A" size="8.300000 8.837797" />
+  </Tracking>
+</QCARConfig>
